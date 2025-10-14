@@ -1,8 +1,11 @@
 <!-- Typing Animation Header -->
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=800&color=00BFFF&width=600&lines=👋+Hello%2C+I'm+Hassan+Rashid!;💻+Front-End+Developer;🎨+Creative+UI%2FUX+Designer;🎬+Animator+Typing+%7C+Motion+Lover" alt="Typing SVG" />
-  <span style="animation: blink 1s infinite;">|</span>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=800&color=00BFFF&width=600&lines=👋+Hello%2C+I'm+Hassan+Rashid!;💻+Front-End+Developer;🎨+Creative+UI%2FUX+Designer;🎬+Animator+Typing+%7C+Motion+Lover&center=false&vCenter=true&repeat=true&cursor=true" 
+    alt="Typing SVG" 
+  />
 </h1>
+
 
 ---
 
