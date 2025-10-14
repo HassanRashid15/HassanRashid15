@@ -30,7 +30,9 @@ I transform **Figma designs** into fully responsive, animated user interfaces th
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,git,github,vscode" />
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/android-chrome-192x192.png" alt="shadcn/ui" width="48" height="48" style="margin-left: 8px; border-radius: 10px;" />
 </p>
+
 
 🖌️ **Figma → Code Converter** — bridging design & development  
 ⚛️ **React + Tailwind CSS** — clean, responsive, and dynamic  
