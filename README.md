@@ -46,8 +46,10 @@ I transform **Figma designs** into fully responsive, animated user interfaces th
   <img src="https://img.shields.io/badge/Design-Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Animation-Framer%20Motion-1C1E26?style=for-the-badge&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Animation-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI-Shadcn%2FUI-18181B?style=for-the-badge&logo=shadcnui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
+
 
 ---
 
