@@ -11,7 +11,7 @@
 
 ### 🧩 About Me  
 
-Hey there! I’m **Hassan Rashid**, a **Front-End Developer & Animator Typing** who blends **design, motion, and logic** to craft interactive web experiences.  
+Hey there! I’m **Hassan Rashid**, a **Front-End Developer** who blends **design, motion, and logic** to craft interactive web experiences.  
 I transform **Figma designs** into fully responsive, animated user interfaces that feel natural and alive.  
 
 💡 *“I don’t just design interfaces — I make them move, respond, and inspire.”*  
