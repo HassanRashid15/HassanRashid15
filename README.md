@@ -28,40 +28,9 @@ I transform **Figma designs** into fully responsive, animated user interfaces th
 
 ### 🛠️ My Tech Arsenal  
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="#" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="#" title="CSS3">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="#" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="#" title="React.js">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="#" title="Tailwind CSS">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="#" title="Bootstrap">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="#" title="Figma">
-    <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="#" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="#" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="#" title="VS Code">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="#" title="Shadcn/UI">
-    <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/android-chrome-192x192.png" alt="shadcn/ui" width="48" height="48" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,git,github,vscode" />
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/android-chrome-192x192.png" alt="shadcn/ui" width="48" height="48" style="margin-left: 8px; border-radius: 10px;" />
 </p>
 
 
