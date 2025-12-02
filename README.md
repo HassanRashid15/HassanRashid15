@@ -69,9 +69,32 @@
   
   📊 My GitHub Stats
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=HassanRashid15&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="165"/>
-    <img src="https://github-readme-streak-stats.demolab.com/?user=HassanRashid15&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165"/>
+    <img id="github-stats" src="https://github-readme-stats.vercel.app/api?username=HassanRashid15&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="165"/>
+    <img id="github-streak" src="https://github-readme-streak-stats.demolab.com/?user=HassanRashid15&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165"/>
   </p>
+  
+  <script>
+    // Function to refresh GitHub stats images dynamically
+    function refreshGitHubStats() {
+      const timestamp = new Date().getTime();
+      const statsImg = document.getElementById('github-stats');
+      const streakImg = document.getElementById('github-streak');
+      
+      if (statsImg) {
+        statsImg.src = `https://github-readme-stats.vercel.app/api?username=HassanRashid15&show_icons=true&theme=tokyonight&hide_border=false&cache=${timestamp}`;
+      }
+      
+      if (streakImg) {
+        streakImg.src = `https://github-readme-streak-stats.demolab.com/?user=HassanRashid15&theme=tokyonight&hide_border=false&cache=${timestamp}`;
+      }
+    }
+    
+    // Refresh on page load
+    window.addEventListener('load', refreshGitHubStats);
+    
+    // Refresh every 5 minutes to get updated stats
+    setInterval(refreshGitHubStats, 300000);
+  </script>
   
   💡 Fun Fact
   
