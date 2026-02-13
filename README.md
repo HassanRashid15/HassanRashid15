@@ -65,13 +65,13 @@ I transform **Figma designs** into fully responsive, animated user interfaces th
 ### 📊 My GitHub Stats  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanRashid15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&ring_color=00BFFF" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanRashid15&theme=tokyonight&hide_border=true&background=1a1b27&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HassanRashid15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&ring_color=00BFFF" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=HassanRashid15&theme=tokyonight&hide_border=true&background=1a1b27&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=70A5FD" height="180"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanRashid15&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00BFFF&text_color=c9d1d9&langs_count=8" height="180"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassanRashid15&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00BFFF&line=00BFFF&point=ffffff&area=true&custom_title=Contribution%20Graph" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HassanRashid15&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00BFFF&text_color=c9d1d9&langs_count=8" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HassanRashid15&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_title=false" height="180"/>
 </p>
 
 ---
